@@ -6,7 +6,7 @@ hero:
   text: "Discord Bot Template Generator"
   tagline: Rapidly deploy Discord.js & Aoi.js projects with powerful templates
   image:
-    src: /luna.png
+    src: ../../luna.png
     alt: Luna CLI
   actions:
     - theme: brand
