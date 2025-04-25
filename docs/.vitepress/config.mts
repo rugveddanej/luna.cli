@@ -4,7 +4,7 @@ export default defineConfig({
   title: "luna.cli",
   description: "The ultimate Discord bot template generator",
   themeConfig: {
-    logo: '../../luna.png',
+    logo: 'https://cdn.discordapp.com/attachments/1363833793990885589/1365036916818444408/luna.png?ex=680bd932&is=680a87b2&hm=cc4c0f61cbe33f697057a5de99ea8c7f2055cd01e7d43c6bba8694ec7ae51524&',
     
     nav: [
       { text: 'Home', link: '/' },
